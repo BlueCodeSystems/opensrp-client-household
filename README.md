@@ -1,6 +1,6 @@
 <!-- JITPACK BADGES:START -->
 [![JitPack Latest](https://jitpack.io/v/BlueCodeSystems/opensrp-client-household.svg)](https://jitpack.io/#BlueCodeSystems/opensrp-client-household)
-[![Build for latest tag (2.0.2-SNAPSHOT)](https://jitpack.io/v/BlueCodeSystems/opensrp-client-household/2.0.2-SNAPSHOT.svg)](https://jitpack.io/#BlueCodeSystems/opensrp-client-household/2.0.2-SNAPSHOT)
+[![Build for latest tag (v2.1.0)](https://jitpack.io/v/BlueCodeSystems/opensrp-client-household/v2.1.0.svg)](https://jitpack.io/#BlueCodeSystems/opensrp-client-household/v2.1.0)
 [![master-SNAPSHOT](https://jitpack.io/v/BlueCodeSystems/opensrp-client-household/master-SNAPSHOT.svg)](https://jitpack.io/#BlueCodeSystems/opensrp-client-household/master-SNAPSHOT)
 <!-- JITPACK BADGES:END -->
 
